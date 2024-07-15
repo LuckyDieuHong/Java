@@ -1,0 +1,20 @@
+
+public class Car extends Vehicle{
+	private String fuelType;
+	public Car() {
+		super("Car");
+	}
+	public String getFuelType() {
+		return fuelType;
+	}
+	public void setFuelType(String fuelType) {
+		this.fuelType = fuelType;
+	}
+	@Override
+	public double layVanToc() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	
+}
