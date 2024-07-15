@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 platformState=1716357922692156
+=======
+platformState=1716232881156001
+>>>>>>> a88e7f9 (add git .gitignore into folders Java)
 quickStart=false
 tipsAndTricks=true

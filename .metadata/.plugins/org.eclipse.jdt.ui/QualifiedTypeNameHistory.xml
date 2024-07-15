@@ -27,6 +27,7 @@
     <fullyQualifiedTypeName name="Manufacturer"/>
     <fullyQualifiedTypeName name="Bicycle"/>
     <fullyQualifiedTypeName name="AirPlane"/>
+<<<<<<< HEAD
     <fullyQualifiedTypeName name="MayTinhCasioFX500"/>
     <fullyQualifiedTypeName name="MayTinhVinacal500"/>
     <fullyQualifiedTypeName name="test"/>
@@ -38,4 +39,6 @@
     <fullyQualifiedTypeName name="code.Example"/>
     <fullyQualifiedTypeName name="code_b.Example"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
+=======
+>>>>>>> a88e7f9 (add git .gitignore into folders Java)
 </qualifiedTypeNameHistroy>
