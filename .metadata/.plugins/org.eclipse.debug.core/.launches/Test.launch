@@ -2,10 +2,14 @@
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <listEntry value="/Java_46_OOP_Interface/src/test.java"/>
 =======
         <listEntry value="/Java_45_OOP/src/test.java"/>
 >>>>>>> a88e7f9 (add git .gitignore into folders Java)
+=======
+        <listEntry value="/Java_46_OOP_Interface/src/test.java"/>
+>>>>>>> 651271b (Do exercise Java_46_OOP_Interface)
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
@@ -14,8 +18,12 @@
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="test"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value=""/>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Java_46_OOP_Interface"/>
 =======
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Java_45_OOP"/>
 >>>>>>> a88e7f9 (add git .gitignore into folders Java)
+=======
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Java_46_OOP_Interface"/>
+>>>>>>> 651271b (Do exercise Java_46_OOP_Interface)
 </launchConfiguration>

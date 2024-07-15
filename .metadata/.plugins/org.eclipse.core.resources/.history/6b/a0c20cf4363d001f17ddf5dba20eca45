@@ -1,9 +1,0 @@
-
-public class HocSinh extends NguoiVietNam extends NguoiMy extends NguoiBaLan {
-
-	public HocSinh(String hoVaTen, int namSinh) {
-		super(hoVaTen, namSinh);
-	}
-	
-	
-}

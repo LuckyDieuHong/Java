@@ -2,9 +2,12 @@
 <<<<<<< HEAD
 .metadata/
 *.log
+<<<<<<< HEAD
 =======
 /.metadata/
 >>>>>>> a88e7f9 (add git .gitignore into folders Java)
 =======
 .metadata/
 >>>>>>> 1d6e9c6 (Add new file Java_46_OOP_Interface)
+=======
+>>>>>>> 651271b (Do exercise Java_46_OOP_Interface)

@@ -28,6 +28,9 @@
     <fullyQualifiedTypeName name="Bicycle"/>
     <fullyQualifiedTypeName name="AirPlane"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 651271b (Do exercise Java_46_OOP_Interface)
     <fullyQualifiedTypeName name="MayTinhCasioFX500"/>
     <fullyQualifiedTypeName name="MayTinhVinacal500"/>
     <fullyQualifiedTypeName name="test"/>
@@ -36,9 +39,12 @@
     <fullyQualifiedTypeName name="MayTinhBoTuiInterface"/>
     <fullyQualifiedTypeName name="SapXepInterface"/>
     <fullyQualifiedTypeName name="PhanMemMayTinh"/>
+<<<<<<< HEAD
     <fullyQualifiedTypeName name="code.Example"/>
     <fullyQualifiedTypeName name="code_b.Example"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
 =======
 >>>>>>> a88e7f9 (add git .gitignore into folders Java)
+=======
+>>>>>>> 651271b (Do exercise Java_46_OOP_Interface)
 </qualifiedTypeNameHistroy>
