@@ -27,4 +27,12 @@
     <fullyQualifiedTypeName name="Manufacturer"/>
     <fullyQualifiedTypeName name="Bicycle"/>
     <fullyQualifiedTypeName name="AirPlane"/>
+    <fullyQualifiedTypeName name="MayTinhCasioFX500"/>
+    <fullyQualifiedTypeName name="MayTinhVinacal500"/>
+    <fullyQualifiedTypeName name="test"/>
+    <fullyQualifiedTypeName name="InsertionSort"/>
+    <fullyQualifiedTypeName name="SelectionSort"/>
+    <fullyQualifiedTypeName name="MayTinhBoTuiInterface"/>
+    <fullyQualifiedTypeName name="SapXepInterface"/>
+    <fullyQualifiedTypeName name="PhanMemMayTinh"/>
 </qualifiedTypeNameHistroy>
