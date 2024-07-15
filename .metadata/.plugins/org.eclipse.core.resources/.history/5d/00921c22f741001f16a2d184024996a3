@@ -1,0 +1,10 @@
+
+public class Bicycle extends Vehicle {
+
+	@Override
+	public double layVanToc() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

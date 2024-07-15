@@ -1,0 +1,13 @@
+
+public class HocSinh extends ConNguoi {
+
+	public HocSinh(String hoVaTen, int namSinh) {
+		super(hoVaTen, namSinh);
+	}
+	
+	public void xinChao()
+	{
+		System.out.println("Lo con ket");
+	}
+	
+}
