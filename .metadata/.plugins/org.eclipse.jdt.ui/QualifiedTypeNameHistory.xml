@@ -35,4 +35,7 @@
     <fullyQualifiedTypeName name="MayTinhBoTuiInterface"/>
     <fullyQualifiedTypeName name="SapXepInterface"/>
     <fullyQualifiedTypeName name="PhanMemMayTinh"/>
+    <fullyQualifiedTypeName name="code.Example"/>
+    <fullyQualifiedTypeName name="code_b.Example"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
 </qualifiedTypeNameHistroy>
