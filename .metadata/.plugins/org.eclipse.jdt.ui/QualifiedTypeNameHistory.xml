@@ -44,6 +44,7 @@
     <fullyQualifiedTypeName name="code.Example"/>
     <fullyQualifiedTypeName name="code_b.Example"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
+<<<<<<< HEAD
 =======
 >>>>>>> a88e7f9 (add git .gitignore into folders Java)
 =======
@@ -53,4 +54,11 @@
     <fullyQualifiedTypeName name="code_b.Example"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
 >>>>>>> bb80ae4 (New exercise about Package)
+=======
+    <fullyQualifiedTypeName name="code.info"/>
+<<<<<<< HEAD
+>>>>>>> 87445b2 (New exercise about Public, Protecd, Private)
+=======
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+>>>>>>> 3e20495 (Test fuck hasTest in Java)
 </qualifiedTypeNameHistroy>

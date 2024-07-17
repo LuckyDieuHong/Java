@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <typeInfoHistroy/>
 =======
 <typeInfoHistroy>
@@ -10,3 +12,11 @@
 =======
 <typeInfoHistroy/>
 >>>>>>> bb80ae4 (New exercise about Package)
+=======
+<typeInfoHistroy>
+    <typeInfo handle="=Java_48_OOP/src&lt;code{info.java[info" modifiers="1" timestamp="1721221195558"/>
+</typeInfoHistroy>
+>>>>>>> 87445b2 (New exercise about Public, Protecd, Private)
+=======
+<typeInfoHistroy/>
+>>>>>>> 3e20495 (Test fuck hasTest in Java)
