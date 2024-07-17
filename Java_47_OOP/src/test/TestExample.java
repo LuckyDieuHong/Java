@@ -12,7 +12,6 @@ public class TestExample {
 		
 		code_b.Example vd2 = new code_b.Example(5, 2, 9);
 		System.out.println(vd2.getA());
-		
-		Date
+	
 	}
 }

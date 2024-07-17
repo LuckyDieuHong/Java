@@ -38,4 +38,5 @@
     <fullyQualifiedTypeName name="code.Example"/>
     <fullyQualifiedTypeName name="code_b.Example"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="code.info"/>
 </qualifiedTypeNameHistroy>
