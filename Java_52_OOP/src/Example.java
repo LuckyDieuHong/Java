@@ -1,27 +1,31 @@
 
 public class Example {
 	public static void main(String[] args) {
-		String s1 = "Hello guys, I'm nigga, nigga, nigga";
-		String s2 = "nigga";
-		String s3 = "bla bla blu";
+		String s1 = "mInH qUaN";
+		String s2 = "@gmail.com";
+		String s3 = s1+s2;
 		
-		char c1 = 'g';
+		// concat
+		String s4 = s1.concat(s2);
+		System.out.println(s3);
+		System.out.println(s4);
 		
-		//indexOf
+		// replaceAll()
+		String s5 = "Cadieuhong.com";
+		System.out.println( s5.replaceAll("123","cAdIeUhOnG" ) );
 		
-		System.out.println("Position of s2 in s1 "+s1.indexOf(s2));
-		System.out.println("Position of s3 in s1 "+s3.indexOf(s1));
+		// toLowerCase --- toUpperCase
+		System.out.println(s1.toUpperCase());
+		System.out.println(s2.toLowerCase());
 
-		//indexOf but in first
-		System.out.println("Position of s2 in s1 "+s1.indexOf(s2,16));
-
-		//Search char
-		System.out.println("Position of s2 in s1 "+s1.indexOf(c1));
-		System.out.println("Position of s2 in s1 "+s1.indexOf(c1,12));
-
+		// trim => delect blanch space
+		String s9 = "   kho chiu        vai lin                    ";
+		System.out.println(s9.trim());
 		
-		//lastIndexOf
-		System.out.println("Position of s2 in s1 "+s1.lastIndexOf(s2));
-
+		// subString => cut subtring
+		String s10 = "Ca hong thom ngon .com";
+		System.out.println(s10.substring(3, 5));
+		System.out.println(s10.substring(2));
+		System.out.println(s10.substring(-99));
 	}
 }
