@@ -9,6 +9,8 @@ public class test {
 		Shape hinhCN = new Rectangle(td2,2,10);
 		Shape hinhTron = new Circle(td3, 10);
 		
+		
+		
 		System.out.println("DT cham: "+hinhCham.tinhDienTich());
 		System.out.println("DT HCN: "+hinhCN.tinhDienTich());
 		System.out.println("DT cham: "+hinhTron.tinhDienTich());

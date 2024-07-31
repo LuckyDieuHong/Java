@@ -16,6 +16,7 @@ public class mainProgram {
 		qLyHocSinh.an();
 		qLyHocSinh.ngu();
 		qLyHocSinh.doHomeWork();
+		qLyHocSinh.ia();
 		System.out.println(qLyHocSinh.hoTenHocSinh());
 		}
 }
