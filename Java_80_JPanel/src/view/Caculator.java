@@ -71,8 +71,11 @@ public class Caculator extends JFrame {
 	}
 	public static void main(String[] args) {
 		try {
-			//UIManager.setLookAndFeel(LoOk)
-			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+			//com.sun.java.swing.plaf.gtk.GTKLookAndFeel
+			//com.sun.java.swing.plaf.motif.MotifLookAndFeel
+			//com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+			UIManager.setLookAndFeel("com.sun.java.swing.plaf.gtk.GTKLookAndFeel");
+			//UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 			new Caculator();
 		} catch (Exception e) {
 			// TODO: handle exception
